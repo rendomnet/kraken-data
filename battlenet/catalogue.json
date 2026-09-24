@@ -9,7 +9,7 @@
       "segment": "world-of-warcraft",
       "launchUri": "battlenet://WoW",
       "launchArgs": "--exec=\"launch WoW\"",
-      "art": { "portrait": "world-of-warcraft/portrait.jpg", "landscape": "world-of-warcraft/landscape.jpg", "hero": "world-of-warcraft/hero.jpg", "logo": "world-of-warcraft/logo.png", "icon": "world-of-warcraft/icon.svg" },
+      "art": { "portrait": "world-of-warcraft/portrait.jpg", "landscape": "world-of-warcraft/landscape.jpg", "hero": "world-of-warcraft/hero.jpg", "logo": "world-of-warcraft/logo.webp", "icon": "world-of-warcraft/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment", "publisher": "Blizzard Entertainment", "releaseDate": "2004-11-23", "genres": ["MMORPG"] }
     },
     {
@@ -27,7 +27,7 @@
       "segment": "diablo-4",
       "launchUri": "battlenet://Fen",
       "launchArgs": "--exec=\"launch Fen\"",
-      "art": { "portrait": "diablo-4/portrait.jpg", "landscape": "diablo-4/landscape.jpg", "hero": "diablo-4/hero.jpg", "logo": "diablo-4/logo.png", "icon": "diablo-4/icon.svg" },
+      "art": { "portrait": "diablo-4/portrait.jpg", "landscape": "diablo-4/landscape.jpg", "hero": "diablo-4/hero.jpg", "logo": "diablo-4/logo.webp", "icon": "diablo-4/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment", "publisher": "Blizzard Entertainment", "releaseDate": "2023-06-06", "genres": ["Action RPG"] }
     },
     {
@@ -36,7 +36,7 @@
       "segment": "diablo-3",
       "launchUri": "battlenet://D3",
       "launchArgs": "--exec=\"launch D3\"",
-      "art": { "portrait": "diablo-3/portrait.jpg", "landscape": "diablo-3/landscape.jpg", "hero": "diablo-3/hero.jpg", "logo": "diablo-3/logo.png", "icon": "diablo-3/icon.svg" },
+      "art": { "portrait": "diablo-3/portrait.jpg", "landscape": "diablo-3/landscape.jpg", "hero": "diablo-3/hero.jpg", "logo": "diablo-3/logo.webp", "icon": "diablo-3/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment", "publisher": "Blizzard Entertainment", "releaseDate": "2012-05-15", "genres": ["Action RPG"] }
     },
     {
@@ -45,7 +45,7 @@
       "segment": "diablo-2-resurrected",
       "launchUri": "battlenet://OSI",
       "launchArgs": "--exec=\"launch OSI\"",
-      "art": { "portrait": "diablo-2-resurrected/portrait.jpg", "landscape": "diablo-2-resurrected/landscape.jpg", "hero": "diablo-2-resurrected/hero.jpg", "logo": "diablo-2-resurrected/logo.png", "icon": "diablo-2-resurrected/icon.svg" },
+      "art": { "portrait": "diablo-2-resurrected/portrait.jpg", "landscape": "diablo-2-resurrected/landscape.jpg", "hero": "diablo-2-resurrected/hero.jpg", "logo": "diablo-2-resurrected/logo.webp", "icon": "diablo-2-resurrected/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment", "publisher": "Blizzard Entertainment", "releaseDate": "2021-09-23", "genres": ["Action RPG"] }
     },
     {
@@ -63,7 +63,7 @@
       "segment": "overwatch",
       "launchUri": "battlenet://Pro",
       "launchArgs": "--exec=\"launch Pro\"",
-      "art": { "portrait": "overwatch/portrait.jpg", "landscape": "overwatch/landscape.jpg", "hero": "overwatch/hero.jpg", "logo": "overwatch/logo.png", "icon": "overwatch/icon.svg" },
+      "art": { "portrait": "overwatch/portrait.jpg", "landscape": "overwatch/landscape.jpg", "hero": "overwatch/hero.jpg", "logo": "overwatch/logo.webp", "icon": "overwatch/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment", "publisher": "Blizzard Entertainment", "releaseDate": "2016-05-24", "genres": ["Hero Shooter"] }
     },
     {
@@ -72,7 +72,7 @@
       "segment": "heroes-of-the-storm",
       "launchUri": "battlenet://Hero",
       "launchArgs": "--exec=\"launch Hero\"",
-      "art": { "portrait": "heroes-of-the-storm/portrait.jpg", "landscape": "heroes-of-the-storm/landscape.jpg", "hero": "heroes-of-the-storm/hero.jpg", "logo": "heroes-of-the-storm/logo.png", "icon": "heroes-of-the-storm/icon.svg" },
+      "art": { "portrait": "heroes-of-the-storm/portrait.jpg", "landscape": "heroes-of-the-storm/landscape.jpg", "hero": "heroes-of-the-storm/hero.jpg", "logo": "heroes-of-the-storm/logo.webp", "icon": "heroes-of-the-storm/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment", "publisher": "Blizzard Entertainment", "releaseDate": "2015-06-02", "genres": ["MOBA"] }
     },
     {
@@ -81,7 +81,7 @@
       "segment": "starcraft",
       "launchUri": "battlenet://S1",
       "launchArgs": "--exec=\"launch S1\"",
-      "art": { "portrait": "starcraft-remastered/portrait.jpg", "landscape": "starcraft-remastered/landscape.jpg", "hero": "starcraft-remastered/hero.jpg", "logo": "starcraft-remastered/logo.png", "icon": "starcraft-remastered/icon.svg" },
+      "art": { "portrait": "starcraft-remastered/portrait.jpg", "landscape": "starcraft-remastered/landscape.jpg", "hero": "starcraft-remastered/hero.jpg", "logo": "starcraft-remastered/logo.webp", "icon": "starcraft-remastered/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment", "publisher": "Blizzard Entertainment", "releaseDate": "2017-08-14", "genres": ["Real-Time Strategy"] }
     },
     {
@@ -90,7 +90,7 @@
       "segment": "starcraft-2",
       "launchUri": "battlenet://S2",
       "launchArgs": "--exec=\"launch S2\"",
-      "art": { "portrait": "starcraft-2/portrait.jpg", "landscape": "starcraft-2/landscape.jpg", "hero": "starcraft-2/hero.jpg", "logo": "starcraft-2/logo.png", "icon": "starcraft-2/icon.svg" },
+      "art": { "portrait": "starcraft-2/portrait.jpg", "landscape": "starcraft-2/landscape.jpg", "hero": "starcraft-2/hero.jpg", "logo": "starcraft-2/logo.webp", "icon": "starcraft-2/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment", "publisher": "Blizzard Entertainment", "releaseDate": "2010-07-27", "genres": ["Real-Time Strategy"] }
     },
     {
@@ -108,7 +108,7 @@
       "segment": "warcraft-rumble",
       "launchUri": "battlenet://GRY",
       "launchArgs": "--exec=\"launch GRY\"",
-      "art": { "portrait": "warcraft-rumble/portrait.jpg", "landscape": "warcraft-rumble/landscape.jpg", "hero": "warcraft-rumble/hero.jpg", "logo": "warcraft-rumble/logo.png", "icon": "warcraft-rumble/icon.svg" },
+      "art": { "portrait": "warcraft-rumble/portrait.jpg", "landscape": "warcraft-rumble/landscape.jpg", "hero": "warcraft-rumble/hero.jpg", "logo": "warcraft-rumble/logo.webp", "icon": "warcraft-rumble/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment", "publisher": "Blizzard Entertainment", "releaseDate": "2023-11-03", "genres": ["Action Strategy"] }
     },
     {
@@ -117,7 +117,7 @@
       "segment": "diablo-immortal",
       "launchUri": "battlenet://ANBS",
       "launchArgs": "--exec=\"launch ANBS\"",
-      "art": { "portrait": "diablo-immortal/portrait.jpg", "landscape": "diablo-immortal/landscape.jpg", "hero": "diablo-immortal/hero.jpg", "logo": "diablo-immortal/logo.png", "icon": "diablo-immortal/icon.svg" },
+      "art": { "portrait": "diablo-immortal/portrait.jpg", "landscape": "diablo-immortal/landscape.jpg", "hero": "diablo-immortal/hero.jpg", "logo": "diablo-immortal/logo.webp", "icon": "diablo-immortal/icon.svg" },
       "meta": { "developer": "Blizzard Entertainment, NetEase", "publisher": "Blizzard Entertainment", "releaseDate": "2022-06-02", "genres": ["Action RPG"] }
     }
   ]
