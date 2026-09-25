@@ -1,10 +1,10 @@
 # kraken-data
 
-Static platform catalogues for [Kraken](https://github.com/rendomnet/tauri-app), served over CDN.
+Static platform catalogues and the game integrations map for [Kraken](https://github.com/rendomnet/tauri-app), served over CDN.
 
 ## What lives here
 
-One folder per platform. Each holds a `catalogue.json` and the artwork it references.
+One folder per platform. Each holds a `catalogue.json` and the artwork it references. `integrations.json` at the root maps games across platforms (see below).
 
 | Platform | Catalogue |
 | --- | --- |
@@ -14,6 +14,7 @@ One folder per platform. Each holds a `catalogue.json` and the artwork it refere
 
 ```
 https://cdn.jsdelivr.net/gh/rendomnet/kraken-data@main/<platform>/catalogue.json
+https://cdn.jsdelivr.net/gh/rendomnet/kraken-data@main/integrations.json
 ```
 
 **These URLs are permanent.** Shipped releases of Kraken request them forever, including versions from years ago. This repository must therefore stay public and keep its name. Do not rename it, make it private, or move the folder layout.
@@ -42,6 +43,28 @@ jsDelivr caches `@main` for up to 12 hours, so an edit reaches users within hour
 ```
 
 `art` paths are relative to `artBase`. Install state is never stored here — Kraken determines that on the user's machine.
+
+## Integrations format
+
+Games are keyed by their Kraken slug: the title lowercased, symbols and apostrophes removed, words joined with hyphens (`Sid Meier’s Civilization® VI` → `sid-meiers-civilization-vi`). The same key names the game's folder in `kraken-tools`.
+
+```jsonc
+{
+  "version": 1,
+  "games": {
+    "the-witcher-3-wild-hunt": {
+      // Native ids per source; a game often has several (editions, regions).
+      "sources": { "steam": ["292030"], "gog": ["1207664663"] },
+      // Curated values, keyed like Kraken's per-game integrations (reddit, fandom, twitch, speedrun, ...).
+      "reddit": "witcher"
+    }
+  }
+}
+```
+
+Kraken looks a game up by its source id first, then by the slug of its name. Listing every edition's id here makes them all resolve to one key. A source id may belong to only one game.
+
+A curated value replaces what Kraken's backend guessed for that game, for every user, within hours of the edit. A value a user typed in by hand is never replaced. Add a value only when you have checked it, and leave out services you have not.
 
 ## Editing
 

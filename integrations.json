@@ -1,0 +1,689 @@
+{
+  "version": 1,
+  "games": {
+    "apex-legends": {
+      "sources": {
+        "steam": [
+          "1172470"
+        ]
+      },
+      "reddit": "apexlegends",
+      "twitch": "511224"
+    },
+    "ark-survival-evolved": {
+      "sources": {
+        "steam": [
+          "346110"
+        ]
+      },
+      "reddit": "playark",
+      "twitch": "489635"
+    },
+    "baldurs-gate-3": {
+      "sources": {
+        "steam": [
+          "1086940"
+        ],
+        "gog": [
+          "1456460669"
+        ]
+      },
+      "reddit": "BaldursGate3",
+      "twitch": "512923",
+      "fandom": "bg3"
+    },
+    "black-myth-wukong": {
+      "sources": {
+        "steam": [
+          "2358720"
+        ]
+      },
+      "reddit": "BlackMythWukong",
+      "twitch": "519291"
+    },
+    "cities-skylines": {
+      "sources": {
+        "steam": [
+          "255710"
+        ]
+      },
+      "reddit": "CitiesSkylines",
+      "twitch": "461449"
+    },
+    "counter-strike-2": {
+      "sources": {
+        "steam": [
+          "730"
+        ]
+      },
+      "reddit": "GlobalOffensive",
+      "twitch": "32399",
+      "speedrun": "cs2"
+    },
+    "cyberpunk-2077": {
+      "sources": {
+        "steam": [
+          "1091500"
+        ],
+        "gog": [
+          "1423049311"
+        ]
+      },
+      "reddit": "cyberpunkgame",
+      "twitch": "65876",
+      "fandom": "cyberpunk"
+    },
+    "dead-by-daylight": {
+      "sources": {
+        "steam": [
+          "381210"
+        ]
+      },
+      "reddit": "deadbydaylight",
+      "twitch": "491487"
+    },
+    "deep-rock-galactic": {
+      "sources": {
+        "steam": [
+          "548430"
+        ]
+      },
+      "reddit": "DeepRockGalactic",
+      "twitch": "494839"
+    },
+    "destiny-2": {
+      "sources": {
+        "steam": [
+          "1085660"
+        ]
+      },
+      "reddit": "DestinyTheGame",
+      "twitch": "497057"
+    },
+    "diablo-2-resurrected": {
+      "sources": {
+        "battlenet": [
+          "OSI"
+        ]
+      },
+      "reddit": "Diablo",
+      "twitch": "1788326126"
+    },
+    "diablo-3": {
+      "sources": {
+        "battlenet": [
+          "D3"
+        ]
+      },
+      "reddit": "Diablo",
+      "twitch": "313558",
+      "speedrun": "d3"
+    },
+    "diablo-4": {
+      "sources": {
+        "battlenet": [
+          "Fen"
+        ],
+        "steam": [
+          "2344520"
+        ]
+      },
+      "reddit": "diablo4",
+      "twitch": "515024",
+      "speedrun": "diablo_iv"
+    },
+    "diablo-immortal": {
+      "sources": {
+        "battlenet": [
+          "ANBS"
+        ]
+      },
+      "reddit": "DiabloImmortal",
+      "twitch": "510150"
+    },
+    "dota-2": {
+      "sources": {
+        "steam": [
+          "570"
+        ]
+      },
+      "reddit": "DotA2",
+      "twitch": "29595"
+    },
+    "elden-ring": {
+      "sources": {
+        "steam": [
+          "1245620"
+        ]
+      },
+      "reddit": "Eldenring",
+      "twitch": "512953",
+      "speedrun": "eldenring"
+    },
+    "euro-truck-simulator-2": {
+      "sources": {
+        "steam": [
+          "227300"
+        ]
+      },
+      "reddit": "trucksim",
+      "twitch": "75467"
+    },
+    "factorio": {
+      "sources": {
+        "steam": [
+          "427520"
+        ],
+        "gog": [
+          "1748227845"
+        ]
+      },
+      "reddit": "factorio",
+      "twitch": "130942",
+      "speedrun": "factorio"
+    },
+    "fallout-4": {
+      "sources": {
+        "steam": [
+          "377160"
+        ],
+        "gog": [
+          "1998527297"
+        ]
+      },
+      "reddit": "fo4",
+      "twitch": "489776",
+      "fandom": "fallout"
+    },
+    "fortnite": {
+      "sources": {
+        "epic": [
+          "fn"
+        ]
+      },
+      "reddit": "FortNiteBR",
+      "twitch": "33214"
+    },
+    "garrys-mod": {
+      "sources": {
+        "steam": [
+          "4000"
+        ]
+      },
+      "reddit": "gmod",
+      "twitch": "18846"
+    },
+    "genshin-impact": {
+      "sources": {
+        "epic": [
+          "genshin-impact"
+        ]
+      },
+      "reddit": "Genshin_Impact",
+      "twitch": "513181",
+      "fandom": "gensin-impact"
+    },
+    "grand-theft-auto-v": {
+      "sources": {
+        "steam": [
+          "271590"
+        ]
+      },
+      "reddit": "GrandTheftAutoV",
+      "twitch": "32982"
+    },
+    "hades": {
+      "sources": {
+        "steam": [
+          "1145360"
+        ]
+      },
+      "reddit": "HadesTheGame",
+      "twitch": "510590",
+      "speedrun": "hades"
+    },
+    "hades-ii": {
+      "sources": {
+        "steam": [
+          "1145350"
+        ]
+      },
+      "reddit": "HadesTheGame",
+      "twitch": "376500771"
+    },
+    "hearthstone": {
+      "sources": {
+        "battlenet": [
+          "WTCG"
+        ]
+      },
+      "reddit": "hearthstone",
+      "twitch": "138585"
+    },
+    "hearts-of-iron-iv": {
+      "sources": {
+        "steam": [
+          "394360"
+        ]
+      },
+      "reddit": "hoi4",
+      "twitch": "459327"
+    },
+    "helldivers-2": {
+      "sources": {
+        "steam": [
+          "553850"
+        ]
+      },
+      "reddit": "Helldivers",
+      "twitch": "766571430"
+    },
+    "heroes-of-the-storm": {
+      "sources": {
+        "battlenet": [
+          "Hero"
+        ]
+      },
+      "reddit": "heroesofthestorm",
+      "twitch": "32959"
+    },
+    "hollow-knight": {
+      "sources": {
+        "steam": [
+          "367520"
+        ],
+        "gog": [
+          "1530263629"
+        ]
+      },
+      "reddit": "HollowKnight",
+      "twitch": "490147",
+      "speedrun": "hollowknight"
+    },
+    "honkai-star-rail": {
+      "sources": {
+        "epic": [
+          "honkai-star-rail"
+        ]
+      },
+      "reddit": "HonkaiStarRail",
+      "twitch": "213930085"
+    },
+    "league-of-legends": {
+      "sources": {
+        "riot": [
+          "league_of_legends"
+        ]
+      },
+      "reddit": "leagueoflegends",
+      "twitch": "21779"
+    },
+    "left-4-dead-2": {
+      "sources": {
+        "steam": [
+          "550"
+        ]
+      },
+      "reddit": "l4d2",
+      "twitch": "24193"
+    },
+    "minecraft": {
+      "sources": {},
+      "reddit": "Minecraft",
+      "twitch": "27471",
+      "speedrun": "mc"
+    },
+    "monster-hunter-world": {
+      "sources": {
+        "steam": [
+          "582010"
+        ]
+      },
+      "reddit": "MonsterHunterWorld",
+      "twitch": "497467"
+    },
+    "overwatch": {
+      "sources": {
+        "battlenet": [
+          "Pro"
+        ],
+        "steam": [
+          "2357570"
+        ]
+      },
+      "reddit": "Overwatch",
+      "twitch": "515025"
+    },
+    "palworld": {
+      "sources": {
+        "steam": [
+          "1623730"
+        ]
+      },
+      "reddit": "Palworld",
+      "twitch": "1036710512"
+    },
+    "path-of-exile": {
+      "sources": {
+        "steam": [
+          "238960"
+        ]
+      },
+      "reddit": "pathofexile",
+      "twitch": "29307"
+    },
+    "payday-2": {
+      "sources": {
+        "steam": [
+          "218620"
+        ]
+      },
+      "reddit": "paydaytheheist",
+      "twitch": "65997"
+    },
+    "phasmophobia": {
+      "sources": {
+        "steam": [
+          "739630"
+        ]
+      },
+      "reddit": "PhasmophobiaGame",
+      "twitch": "518184"
+    },
+    "pubg-battlegrounds": {
+      "sources": {
+        "steam": [
+          "578080"
+        ]
+      },
+      "reddit": "PUBATTLEGROUNDS",
+      "twitch": "493057"
+    },
+    "rainbow-six-siege": {
+      "sources": {
+        "steam": [
+          "359550"
+        ]
+      },
+      "reddit": "Rainbow6",
+      "twitch": "460630"
+    },
+    "red-dead-redemption-2": {
+      "sources": {
+        "steam": [
+          "1174180"
+        ]
+      },
+      "reddit": "reddeadredemption",
+      "twitch": "22848"
+    },
+    "rimworld": {
+      "sources": {
+        "steam": [
+          "294100"
+        ],
+        "gog": [
+          "1318029514"
+        ]
+      },
+      "reddit": "RimWorld",
+      "twitch": "394568"
+    },
+    "roblox": {
+      "sources": {},
+      "reddit": "roblox",
+      "twitch": "23020"
+    },
+    "rocket-league": {
+      "sources": {
+        "steam": [
+          "252950"
+        ]
+      },
+      "reddit": "RocketLeague",
+      "twitch": "30921"
+    },
+    "rust": {
+      "sources": {
+        "steam": [
+          "252490"
+        ]
+      },
+      "reddit": "playrust",
+      "twitch": "263490"
+    },
+    "sea-of-thieves": {
+      "sources": {
+        "steam": [
+          "1172620"
+        ]
+      },
+      "reddit": "Seaofthieves",
+      "twitch": "490377"
+    },
+    "sid-meiers-civilization-vi": {
+      "sources": {
+        "steam": [
+          "289070"
+        ]
+      },
+      "reddit": "civ",
+      "twitch": "492553"
+    },
+    "slay-the-spire": {
+      "sources": {
+        "steam": [
+          "646570"
+        ],
+        "gog": [
+          "1761875151"
+        ]
+      },
+      "reddit": "slaythespire",
+      "twitch": "496902"
+    },
+    "slay-the-spire-2": {
+      "sources": {
+        "steam": [
+          "2868840"
+        ]
+      },
+      "reddit": "slaythespire",
+      "twitch": "1435206302"
+    },
+    "starcraft-2": {
+      "sources": {
+        "battlenet": [
+          "S2"
+        ]
+      },
+      "reddit": "starcraft",
+      "twitch": "490422"
+    },
+    "starcraft-remastered": {
+      "sources": {
+        "battlenet": [
+          "S1"
+        ]
+      },
+      "reddit": "starcraft",
+      "twitch": "11989"
+    },
+    "stardew-valley": {
+      "sources": {
+        "steam": [
+          "413150"
+        ],
+        "gog": [
+          "1453375253"
+        ]
+      },
+      "reddit": "StardewValley",
+      "twitch": "490744",
+      "speedrun": "stardew_valley"
+    },
+    "stellaris": {
+      "sources": {
+        "steam": [
+          "281990"
+        ],
+        "gog": [
+          "1970599981"
+        ]
+      },
+      "reddit": "Stellaris",
+      "twitch": "491572"
+    },
+    "team-fortress-2": {
+      "sources": {
+        "steam": [
+          "440"
+        ]
+      },
+      "reddit": "tf2",
+      "twitch": "16676"
+    },
+    "terraria": {
+      "sources": {
+        "steam": [
+          "105600"
+        ],
+        "gog": [
+          "1207659257"
+        ]
+      },
+      "reddit": "Terraria",
+      "twitch": "31376",
+      "speedrun": "terraria",
+      "fandom": "terraria"
+    },
+    "the-binding-of-isaac-rebirth": {
+      "sources": {
+        "steam": [
+          "250900"
+        ],
+        "gog": [
+          "1440785084"
+        ]
+      },
+      "reddit": "bindingofisaac",
+      "twitch": "847929177",
+      "speedrun": "isaac_rebirth"
+    },
+    "the-elder-scrolls-v-skyrim-special-edition": {
+      "sources": {
+        "steam": [
+          "489830"
+        ],
+        "gog": [
+          "1711230643"
+        ]
+      },
+      "reddit": "skyrim",
+      "twitch": "30028",
+      "fandom": "elderscrolls"
+    },
+    "the-witcher-3-wild-hunt": {
+      "sources": {
+        "steam": [
+          "292030"
+        ],
+        "gog": [
+          "1207664663"
+        ]
+      },
+      "reddit": "witcher",
+      "twitch": "115977",
+      "fandom": "witcher"
+    },
+    "unturned": {
+      "sources": {
+        "steam": [
+          "304930"
+        ]
+      },
+      "reddit": "unturned",
+      "twitch": "417932"
+    },
+    "valheim": {
+      "sources": {
+        "steam": [
+          "892970"
+        ]
+      },
+      "reddit": "valheim",
+      "twitch": "508455"
+    },
+    "valorant": {
+      "sources": {
+        "riot": [
+          "valorant"
+        ]
+      },
+      "reddit": "VALORANT",
+      "twitch": "516575"
+    },
+    "wallpaper-engine": {
+      "sources": {
+        "steam": [
+          "431960"
+        ]
+      },
+      "reddit": "wallpaperengine"
+    },
+    "war-thunder": {
+      "sources": {
+        "steam": [
+          "236390"
+        ]
+      },
+      "reddit": "Warthunder",
+      "twitch": "66366"
+    },
+    "warcraft-3-reforged": {
+      "sources": {
+        "battlenet": [
+          "W3"
+        ]
+      },
+      "reddit": "warcraft3",
+      "twitch": "12924"
+    },
+    "warcraft-rumble": {
+      "sources": {
+        "battlenet": [
+          "GRY"
+        ]
+      },
+      "reddit": "warcraftrumble",
+      "twitch": "884809056"
+    },
+    "warframe": {
+      "sources": {
+        "steam": [
+          "230410"
+        ]
+      },
+      "reddit": "Warframe",
+      "twitch": "66170"
+    },
+    "world-of-warcraft": {
+      "sources": {
+        "battlenet": [
+          "WoW"
+        ]
+      },
+      "reddit": "wow",
+      "twitch": "18122"
+    },
+    "world-of-warcraft-classic": {
+      "sources": {
+        "battlenet": [
+          "WoWC"
+        ]
+      },
+      "reddit": "classicwow",
+      "twitch": "18122"
+    }
+  }
+}
