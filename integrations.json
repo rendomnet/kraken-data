@@ -41,6 +41,17 @@
       "reddit": "BlackMythWukong",
       "twitch": "519291"
     },
+    "celeste": {
+      "sources": {
+        "steam": [
+          "504230"
+        ]
+      },
+      "reddit": "celestegame",
+      "twitch": "492535",
+      "speedrun": "celeste",
+      "fandom": "celeste"
+    },
     "cities-skylines": {
       "sources": {
         "steam": [
