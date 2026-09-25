@@ -1,6 +1,15 @@
 {
   "version": 1,
   "games": {
+    "7-days-to-die": {
+      "sources": {
+        "steam": [
+          "251570"
+        ]
+      },
+      "reddit": "7daystodie",
+      "twitch": "271304"
+    },
     "apex-legends": {
       "sources": {
         "steam": [
@@ -41,6 +50,15 @@
       "reddit": "BlackMythWukong",
       "twitch": "519291"
     },
+    "call-of-duty": {
+      "sources": {
+        "steam": [
+          "1938090"
+        ]
+      },
+      "reddit": "CODWarzone",
+      "twitch": "512710"
+    },
     "celeste": {
       "sources": {
         "steam": [
@@ -71,6 +89,15 @@
       "twitch": "32399",
       "speedrun": "cs2"
     },
+    "crusader-kings-iii": {
+      "sources": {
+        "steam": [
+          "1158310"
+        ]
+      },
+      "reddit": "CrusaderKings",
+      "twitch": "514888"
+    },
     "cyberpunk-2077": {
       "sources": {
         "steam": [
@@ -84,6 +111,16 @@
       "twitch": "65876",
       "fandom": "cyberpunk"
     },
+    "dayz": {
+      "sources": {
+        "steam": [
+          "221100"
+        ]
+      },
+      "reddit": "dayz",
+      "twitch": "65632",
+      "speedrun": "dayz"
+    },
     "dead-by-daylight": {
       "sources": {
         "steam": [
@@ -93,6 +130,15 @@
       "reddit": "deadbydaylight",
       "twitch": "491487"
     },
+    "deadlock": {
+      "sources": {
+        "steam": [
+          "1422450"
+        ]
+      },
+      "reddit": "DeadlockTheGame",
+      "twitch": "2132205352"
+    },
     "deep-rock-galactic": {
       "sources": {
         "steam": [
@@ -101,6 +147,15 @@
       },
       "reddit": "DeepRockGalactic",
       "twitch": "494839"
+    },
+    "delta-force": {
+      "sources": {
+        "steam": [
+          "2507950"
+        ]
+      },
+      "reddit": "DeltaForceGame",
+      "twitch": "1282866981"
     },
     "destiny-2": {
       "sources": {
@@ -151,6 +206,16 @@
       },
       "reddit": "DiabloImmortal",
       "twitch": "510150"
+    },
+    "dont-starve-together": {
+      "sources": {
+        "steam": [
+          "322330"
+        ]
+      },
+      "reddit": "dontstarve",
+      "twitch": "488634",
+      "speedrun": "do_not_starve_together"
     },
     "dota-2": {
       "sources": {
@@ -233,6 +298,16 @@
       "reddit": "Genshin_Impact",
       "twitch": "513181",
       "fandom": "gensin-impact"
+    },
+    "geometry-dash": {
+      "sources": {
+        "steam": [
+          "322170"
+        ]
+      },
+      "reddit": "geometrydash",
+      "twitch": "460951",
+      "speedrun": "gmd"
     },
     "grand-theft-auto-v": {
       "sources": {
@@ -320,6 +395,15 @@
       "reddit": "HonkaiStarRail",
       "twitch": "213930085"
     },
+    "hunt-showdown-1896": {
+      "sources": {
+        "steam": [
+          "594650"
+        ]
+      },
+      "reddit": "HuntShowdown",
+      "twitch": "500188"
+    },
     "league-of-legends": {
       "sources": {
         "riot": [
@@ -338,11 +422,29 @@
       "reddit": "l4d2",
       "twitch": "24193"
     },
+    "marvel-rivals": {
+      "sources": {
+        "steam": [
+          "2767030"
+        ]
+      },
+      "reddit": "marvelrivals",
+      "twitch": "1264310518"
+    },
     "minecraft": {
       "sources": {},
       "reddit": "Minecraft",
       "twitch": "27471",
       "speedrun": "mc"
+    },
+    "monster-hunter-wilds": {
+      "sources": {
+        "steam": [
+          "2246340"
+        ]
+      },
+      "reddit": "MHWilds",
+      "twitch": "1286077738"
     },
     "monster-hunter-world": {
       "sources": {
@@ -352,6 +454,34 @@
       },
       "reddit": "MonsterHunterWorld",
       "twitch": "497467"
+    },
+    "mount-and-blade-ii-bannerlord": {
+      "sources": {
+        "steam": [
+          "261550"
+        ]
+      },
+      "reddit": "mountandblade",
+      "twitch": "68351"
+    },
+    "naraka-bladepoint": {
+      "sources": {
+        "steam": [
+          "1203220"
+        ]
+      },
+      "reddit": "NarakaBladePoint",
+      "twitch": "515474"
+    },
+    "no-mans-sky": {
+      "sources": {
+        "steam": [
+          "275850"
+        ]
+      },
+      "reddit": "NoMansSkyTheGame",
+      "twitch": "458781",
+      "speedrun": "nms"
     },
     "overwatch": {
       "sources": {
@@ -383,6 +513,15 @@
       "reddit": "pathofexile",
       "twitch": "29307"
     },
+    "path-of-exile-2": {
+      "sources": {
+        "steam": [
+          "2694490"
+        ]
+      },
+      "reddit": "poe2",
+      "twitch": "1702520304"
+    },
     "payday-2": {
       "sources": {
         "steam": [
@@ -400,6 +539,16 @@
       },
       "reddit": "PhasmophobiaGame",
       "twitch": "518184"
+    },
+    "project-zomboid": {
+      "sources": {
+        "steam": [
+          "108600"
+        ]
+      },
+      "reddit": "projectzomboid",
+      "twitch": "31339",
+      "speedrun": "Project_Zomboid"
     },
     "pubg-battlegrounds": {
       "sources": {
@@ -545,6 +694,16 @@
       "reddit": "Stellaris",
       "twitch": "491572"
     },
+    "street-fighter-6": {
+      "sources": {
+        "steam": [
+          "1364780"
+        ]
+      },
+      "reddit": "StreetFighter",
+      "twitch": "55453844",
+      "speedrun": "sf6"
+    },
     "team-fortress-2": {
       "sources": {
         "steam": [
@@ -594,6 +753,16 @@
       "twitch": "30028",
       "fandom": "elderscrolls"
     },
+    "the-sims-4": {
+      "sources": {
+        "steam": [
+          "1222670"
+        ]
+      },
+      "reddit": "Sims4",
+      "twitch": "369252",
+      "speedrun": "ts4"
+    },
     "the-witcher-3-wild-hunt": {
       "sources": {
         "steam": [
@@ -606,6 +775,15 @@
       "reddit": "witcher",
       "twitch": "115977",
       "fandom": "witcher"
+    },
+    "total-war-warhammer-iii": {
+      "sources": {
+        "steam": [
+          "1142710"
+        ]
+      },
+      "reddit": "totalwar",
+      "twitch": "1913410799"
     },
     "unturned": {
       "sources": {
@@ -633,6 +811,15 @@
       },
       "reddit": "VALORANT",
       "twitch": "516575"
+    },
+    "vrchat": {
+      "sources": {
+        "steam": [
+          "438100"
+        ]
+      },
+      "reddit": "VRchat",
+      "twitch": "499003"
     },
     "wallpaper-engine": {
       "sources": {
